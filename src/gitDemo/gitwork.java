@@ -6,6 +6,8 @@ public class gitwork {
 		// TODO Auto-generated method stub
 int i =10;
 	}
+	{}
+	{}
 	
 	//
 
